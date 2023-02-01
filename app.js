@@ -80,7 +80,7 @@ const html = `
                 <p>A bit of my digital life<br />
                 where I build cool things!!</p>
               </header>
-              <p>Hi, my name is Alan<strike title="People call me just Alan">tiel</strike>, 32 years old. I've been a programmer since I was 14 (geek since 0). Here you can see some information about me. First of all, my favorite Einstein quote.</p>
+              <p>Hi, my name is Alan<strike title="People call me just Alan">tiel</strike>, 34 years old. I've been a programmer since I was 14 (geek since 0). Here you can see some information about me. First of all, my favorite Einstein quote.</p>
 
               <blockquote>
                 Imagination is more important than knowledge. (Einstein, Albert)
